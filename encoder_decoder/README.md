@@ -12,3 +12,8 @@ L'approche adoptée pour l'élaboration de l'architecture était itérative. Les
 
 Après avoir formé le modèle, il a été évalué en utilisant un classificateur à vecteurs de support linéaire (SVC). Sur le jeu de données d'embedding, l'accuracy obtenue variait autour de 0,775. Cependant, lors de l'application directe du SVC sur les données de test, l'accuracy était légèrement inférieure, oscillant autour de 0,7.
 
+![téléchargement (1)](https://github.com/MamoudouSD/My_IA_project/assets/98142692/8918cd11-0f6f-49cc-a781-188ea55e16f2)
+
+![téléchargement (2)](https://github.com/MamoudouSD/My_IA_project/assets/98142692/4816eccb-d6d4-4edf-acfd-e0b0face88f5)
+
+_**Image original et image reconstruit**_
