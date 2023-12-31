@@ -34,3 +34,6 @@ Couche Dense avec 6 unités (nombre de classes) et activation softmax.
 
 # Optimisation du Modèle
 Partie, d'une seule couche de convolution et une seule couche dense, nous avons observé que les performances du modèle s'amélioraient à mesure que le nombre total de paramètres augmentait. Donc nous décidé d'augmenter le nombre de couches de convolution, dense et de filtres. Face a une stagnation de l'évolution, l'approche a évolué vers l'augmentation de la taille des images. Cette décision a été influencée par l'observation selon laquelle des CNN bien connus tels que VGG19 et AlexNet utilisent des images de plus grande taille. La taille de l'image a été augmentée progressivement, avec la limitation étant les contraintes de RAM de Google Colab. Malgré cette limitation, nous avons atteint la précision de 89%.
+
+_![téléchargement (2)](https://github.com/MamoudouSD/My_IA_project/assets/98142692/32efbe84-f50d-4875-9c70-fac6a701e607)_
+_**Courbes de perte**_
