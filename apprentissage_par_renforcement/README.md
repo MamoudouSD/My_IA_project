@@ -29,44 +29,35 @@ L'agent Q-learning utilise une approche classique de mise à jour de la table Q,
 #### Lac gelé 4x4
 
 Hyper paramètre par défaut (code argparse : python main.py 0.1 0.95 1.0 0.95 0.05 1000 '4x4' 'Q_learning' ) :
-x = 1000
-
-Alpha = 0.1
-
-Gamma = 0.95
-
-Epsilon = 1.0
-
-Epsilon_decay = 0.95
-
-Epsilon_min = 0.05
+  - x = 1000
+  - Alpha = 0.1
+  - Gamma = 0.95
+  - Epsilon = 1.0
+  - Epsilon_decay = 0.95
+  - Epsilon_min = 0.05
 
 En utilisant les paramètre par défaut, le nombre de succès obtenu est de 0%. Cela est dû à la baisse rapide de la valeur d’epsilon.
 
 Hyper paramètre que nous avons choisis (code argparse : python main.py 0.1 0.95 1.0 0.001 0.05 1000 '4x4' 'Q_learning' ) :
-x = 1000
-
-Alpha = 0.1
-
-Gamma = 0.95
-
-Epsilon = 1.0
-
-Epsilon_decay = 0.001
-
-Epsilon_min = 0.05
+  - x = 1000
+  - Alpha = 0.1
+  - Gamma = 0.95
+  - Epsilon = 1.0
+  - Epsilon_decay = 0.001
+  - Epsilon_min = 0.05
 
 En utilisant les paramètre que nous avons choisi, le nombre de succès obtenu est de 63%. Juste une modification d’un hyper paramètre à permis d’améliorer le résultat.
 
 #### Lac gelé 8x8
 Hyper paramètre par défaut (code argparse : python main.py 0.1 0.95 1.0 0.95 0.05 1000 '8x8' 'Q_learning' ) :
-X = 1000
-Alpha = 0.1
-Gamma = 0.95
-Epsilon = 1.0
-Epsilon_decay = 0.95
-Epsilon_min = 0.05
-Résultat après entrainement
+  - X = 1000
+  - Alpha = 0.1
+  - Gamma = 0.95
+  - Epsilon = 1.0
+  - Epsilon_decay = 0.95
+  - Epsilon_min = 0.05
+  - Résultat après entrainement
+    
 Succès sur 100=0
 
 ## Agent double_Q_learning
@@ -74,22 +65,24 @@ Succès sur 100=0
 #### Lac gelé 4x4
 
 Hyper paramètre par défaut (code argparse : python main.py 0.1 0.95 1.0 0.95 0.05 1000 '4x4' 'double_Q_learning' ) :
-x = 1000
-Alpha = 0.1
-Gamma = 0.95
-Epsilon = 1.0
-Epsilon_decay = 0.95
-Epsilon_min = 0.05
+  - x = 1000
+  - Alpha = 0.1
+  - Gamma = 0.95
+  - Epsilon = 1.0
+  - Epsilon_decay = 0.95
+  - Epsilon_min = 0.05
+    
 Le nombre de succès avec qtable A pour 100 est: 9.0%
 Le nombre de suces avec qtable B pour 100 est : 5.0%
 
 Hyper paramètre que nous avons choisis (code argparse : python main.py 0.1 0.95 1.0 0.001 0.05 1000 '4x4' 'double_Q_learning' ) :
-x = 1000
-Alpha = 0.1
-Gamma = 0.95
-Epsilon = 1.
-Epsilon_decay = 0.001
-Epsilon_min = 0.05
+  - x = 1000
+  - Alpha = 0.1
+  - Gamma = 0.95
+  - Epsilon = 1.
+  - Epsilon_decay = 0.001
+  - Epsilon_min = 0.05
+
 Le nombre de succès avec qtable A pour 100 est : 13.0%
 Le nombre de succès avec qtable B pour 100 est : 4.0%
 
