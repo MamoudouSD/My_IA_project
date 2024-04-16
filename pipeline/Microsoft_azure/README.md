@@ -1,4 +1,4 @@
-# Conception d'un pipeline pour la classification d'Animaux avec CNN
+# Projet: Pipeline de Machine Learning sur Microsoft Azure
 
 ## Description
 Ce projet développe un modèle de réseau de neurones convolutif (CNN) pour classifier des images d'animaux. Le modèle est entraîné, testé et utilisé avec TensorFlow. Le pipeline utilise Microsoft Azure pour automatiser le prétraitement, l'entraînement et les tests.
