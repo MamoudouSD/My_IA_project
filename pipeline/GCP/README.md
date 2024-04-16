@@ -24,3 +24,6 @@ Utilise train.py pour l'entraînement du modèle sur des données préparées.
 Compare les performances avec les versions précédentes et valide la qualité avant déploiement.
 Déploiement du modèle:
 Met à jour le modèle en production en fonction des résultats de l'évaluation.
+
+## Structure
+
