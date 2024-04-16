@@ -1,7 +1,7 @@
 # Introduction
 L'objectif principal de cette étude était de développer un réseau de neurones convolutif (CNN) capable de classifier des images appartenant à six espèces animales différentes. Plus précisément, l'étude visait à comprendre et à manipuler divers paramètres pour observer leurs impacts sur les performances du modèle CNN. De plus, un objectif clé était d'atteindre un niveau élevé de précision dans la classification des images des espèces animales spécifiées, qui comprennent l'Éléphant, la Girafe, le Léopard, le Rhinocéros, le Tigre et le Zèbre.
 
-#Architecture du Modèle
+# Architecture du Modèle
 
 Le modèle CNN construit comprend deux parties principales : la partie d'extraction de caractéristiques et la partie entièrement connectée.
 
