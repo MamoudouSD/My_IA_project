@@ -1,4 +1,4 @@
-# Projet1: Pipeline de Machine Learning sur Vertex AI
+# Projet: Pipeline de Machine Learning sur Vertex AI
 
 ## Description
 Ce projet implémente un pipeline complet de machine learning pour l'entraînement, l'évaluation, l'enregistrement, et le déploiement de modèles RNN utilisant TensorFlow sur Google Cloud Platform, spécifiquement Vertex AI. Il automatise le flux de travail d'entraînement et de déploiement pour faciliter les mises à jour et les tests de modèles.
