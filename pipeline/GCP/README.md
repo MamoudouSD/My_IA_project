@@ -7,6 +7,7 @@ Ce projet implémente un pipeline complet de machine learning pour l'entraîneme
 - **Framework**: TensorFlow
 - **Type de Modèle**: RNN (Réseaux de Neurones Récurrents)
 - **Tâches Impliquées**: Prédiction
+- **Plateforme de developpement**: Google Cloud Platform.
 
 ## Configuration Initiale
 1. Définir les variables d'environnement et les paramètres de projet:
