@@ -25,7 +25,7 @@ Compare les performances avec les versions précédentes et valide la qualité a
 Déploiement du modèle:
 Met à jour le modèle en production en fonction des résultats de l'évaluation.
 
-## Structure
+## Structure du pipeline
 ![1](https://github.com/user-attachments/assets/fce394e2-c030-4fb4-a33c-4239f5d60920)
 ![2](https://github.com/user-attachments/assets/a4a4c634-6225-4550-bcb1-7c129a15bde0)
 ![3](https://github.com/user-attachments/assets/1161e141-9d31-480c-84d5-86ccbf8d6ecf)
