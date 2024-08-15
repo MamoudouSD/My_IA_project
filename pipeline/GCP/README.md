@@ -26,6 +26,6 @@ Déploiement du modèle:
 Met à jour le modèle en production en fonction des résultats de l'évaluation.
 
 ## Structure
-![1](https://github.com/MamoudouSD/My_IA_project/assets/98142692/0b8a1050-d964-4eff-ab2b-e2dc5a02e81f)
-![2](https://github.com/MamoudouSD/My_IA_project/assets/98142692/6a640d5f-b918-4785-9cbf-198397cc27d3)
-![3](https://github.com/MamoudouSD/My_IA_project/assets/98142692/e1ec7ecc-d348-465b-ada2-59949fe64975)
+![1](https://github.com/user-attachments/assets/fce394e2-c030-4fb4-a33c-4239f5d60920)
+![2](https://github.com/user-attachments/assets/a4a4c634-6225-4550-bcb1-7c129a15bde0)
+![3](https://github.com/user-attachments/assets/1161e141-9d31-480c-84d5-86ccbf8d6ecf)
